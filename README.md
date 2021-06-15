@@ -60,5 +60,5 @@ This is the primary focus of the assignment. Please fill out the `DebuggingProce
   Wow, the debugger shows that `totalPrice` does equal 30, which means that's not where the bug was, so I was wrong. The other values also look correct, meaning that the bug must occur later in the function. Next, I want to see if I am comparing `cash` and `totalPrice` correctly.
 
 ## Final Results
-Make a pull request to this repo and submit your findings in a Google Form, linked here: https://docs.google.com/forms/d/e/1FAIpQLScnwEeQ4HrWkB-7fpIiCGBS1hEqSB26OMi6FHWzcOfV42lj6A/viewform
+Make a pull request to this repo and submit your findings in a Google Form, linked here: https://forms.gle/tUnLqZkE2RuTWVBQ8
 
