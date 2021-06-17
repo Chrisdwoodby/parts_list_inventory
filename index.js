@@ -29,8 +29,9 @@ Blueprint.prototype.build = function (inventory) {
     }
     for (let i = 0; i < this.steps.length; i++) {
         let step = this.steps[i];
+
         for (let part in step.parts) {
-            inventory[part]--;
+             inventory[part]--;
         }
         console.log(step.description)
     }
